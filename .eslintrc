@@ -6,7 +6,7 @@
     "node": true,
     "jest/globals": true
   },
-  "plugins": ["prettier", "jsx-a11y", "jest"],
+  "plugins": ["prettier", "jsx-a11y", "jest", "emotion"],
   "globals": {
     "window": true,
     "document": true
